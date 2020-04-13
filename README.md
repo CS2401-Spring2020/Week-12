@@ -57,7 +57,7 @@ class myBinarySearchTreeNode{
 ```
 
 ### What do you have to do
-1. Fill in the methods described above in the file `myBinarySearchTreeTester.java` using the comments to guide the construction of the methods. 
+1. Fill in the methods described above in the file `myBinarySearchTreeNode.java` using the comments to guide the construction of the methods. 
 1. Test your class by creating at least *5 test cases using `JUnit`. For this you will create a new file called `myBinarySearchTreeTester.java`. You are expected to describe and justify each test case in a comment right before in the code. 
 
 ### What you should submit on Git
